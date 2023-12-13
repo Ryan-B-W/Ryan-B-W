@@ -1,2 +1,35 @@
-* This is a Test
-Just testing out if GitHub profile README works with Org-Mode files instead of just GitHub flavored Markdown.
+* Ryan "Brody" Wilcox: Professional Software Developer and Practitioner of Computing Esoterics
+ - Does full-stack web development, DevOps, native application development, and cluster management
+ - Works on open source projects ranging from web-applications and infrastructure to editor configurations
+** Works in a variety of programming languages:
+ - Python
+ - JavaScript
+ - PHP
+ - Ruby
+ - Common Lisp
+ - Erlang
+ - Prolog
+ - Rego
+ - C & C++
+ - Bash
+** Knows and works with a variety of markups for documents and data:
+ - HTML
+ - CSS
+ - YAML
+ - TOML
+ - XML
+ - JSON
+ - S-Expressions
+ - CSV & DSV
+ - Markdown
+ - LaTeX
+ - Org-Mode
+** Knows and works with a variety of platforms:
+ - Kubernetes
+ - AWS
+ - POSIX
+ - Linux
+ - Mac OS
+ - Windows
+ - NetBSD
+ - Plan9/9Front
