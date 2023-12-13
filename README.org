@@ -2,34 +2,8 @@
  - Does full-stack web development, DevOps, native application development, and cluster management
  - Works on open source projects ranging from web-applications and infrastructure to editor configurations
 ** Works in a variety of programming languages:
- - Python
- - JavaScript
- - PHP
- - Ruby
- - Common Lisp
- - Erlang
- - Prolog
- - Rego
- - C & C++
- - Bash
+Python, JavaScript, PHP, Ruby, Common Lisp, Erlang, Prolog, Rego, C & C++, and Bash
 ** Knows and works with a variety of markups for documents and data:
- - HTML
- - CSS
- - YAML
- - TOML
- - XML
- - JSON
- - S-Expressions
- - CSV & DSV
- - Markdown
- - LaTeX
- - Org-Mode
+HTML, CSS, YAML, TOML, XML, JSON, S-Expressions, CSV & DSV, Markdown, LaTeX, and Org-Mode
 ** Knows and works with a variety of platforms:
- - Kubernetes
- - AWS
- - POSIX
- - Linux
- - Mac OS
- - Windows
- - NetBSD
- - Plan9/9Front
+Kubernetes, AWS, POSIX, Linux, Mac OS, Windows, NetBSD, and Plan9/9Front
