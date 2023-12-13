@@ -1,6 +1,10 @@
 * Ryan "Brody" Wilcox: Professional Software Developer and Practitioner of Computing Esoterics
  - Does full-stack web development, DevOps, native application development, and cluster management
  - Works on open source projects ranging from web-applications and infrastructure to editor configurations
+** Works on a few open source projects
+ - [[https://vimacs.app][Vimacs.app]]: an Emacs configuration that tries to use as much built-in functionality as is practical while providing an IDE-level experience and well integrated Vim-style editing.  Creator and—for now—sole maintainer.
+ - [[https://recipesage.com][RecipeSage]]: a personal recipe manager by Julian Poyourow.  Occasional contributor and periodic pair programmer.
+ - [[https://github.com/Ryan-B-W/boxen-theme][Boxen-Theme]]: an adaptive Hugo site theme that is fully parametric, has dark and light modes, and uses no JavaScript.  Creator and—for now—sole maintainer.
 ** Works in a variety of programming languages:
 Python, JavaScript, PHP, Ruby, Common Lisp, Erlang, Prolog, Rego, C & C++, and Bash
 ** Knows and works with a variety of markups for documents and data:
